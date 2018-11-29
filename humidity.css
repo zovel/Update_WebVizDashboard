@@ -1,0 +1,40 @@
+@media (min-width: 992px){
+body{
+    background-color: gainsboro;
+}
+#navbar{
+    background-color: lightseagreen;
+    color: white;
+    font-family: Helvetica;
+
+}
+#navbarBar{
+    font-family: Helvetica;
+}
+
+h1 {
+    color:lightseagreen;
+    font-family:Helvetica;
+    font-size: 250%;
+    text-align: center;
+}
+h2 {
+    color:lightseagreen;
+    font-family: Helvetica;
+    font-size:200%;
+    text-align: center;
+}
+#humidity{
+    background-color: white;
+    text-align: justify;
+
+}
+#humidimage{
+    display: block;
+    margin-left:auto;
+    margin-right:auto;
+}
+#Visualizations {
+    background-color: white;
+}
+}
